@@ -1,0 +1,8 @@
+{
+  "name": "advent-of-code-23",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "watch": "bun --watch ./src/day-3"
+  }
+}
